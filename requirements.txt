@@ -1,0 +1,16 @@
+streamlit == 0.89
+numpy
+pandas
+geopandas
+altair
+keplergl
+streamlit_keplergl
+millify
+requests
+beautifulsoup4
+gspread
+oauth2client
+empiricaldist
+matplotlib
+scipy
+python-dotenv

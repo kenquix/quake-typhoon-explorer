@@ -1,0 +1,15 @@
+*.vscode
+__pycache__
+*.ipynb
+*.env
+.streamlit
+scrape.py
+assets/*.json
+assets/*.cpg
+assets/*.dbf
+assets/*.prj
+assets/*.sbn
+assets/*.sbx
+assets/*.shp
+assets/*.shx
+assets/*.png
